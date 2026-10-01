@@ -30,8 +30,5 @@ NumPy
 Scikit-learn
 Seaborn
 Matplotlib
-Flask
-DVC (Data Version Control)
 MLflow
-CatBoost
 XGBoost
